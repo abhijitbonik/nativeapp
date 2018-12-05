@@ -1,0 +1,187 @@
+html {
+    position: relative;
+}
+html, body {
+    min-height: 100%;
+}
+.col-form-label, .control-label, .form-check-label,.form-check-input {
+    font-size: .83rem !important;
+    font-weight: 400;
+}
+footer {
+    background-color: #E9ECEF;
+    padding: 15px 0px;
+}
+.bg-custom { background-color: #F8F9FA;}
+.navbar {
+    box-shadow: 0 2px 5px -2px rgba(0,0,0,0.42);
+    padding-top:0px;
+    padding-bottom: 0px;
+}
+.navbar.bg-gray {
+    box-shadow: none;
+    background-color: #E9ECEF;
+}
+.form-group.required .control-label:after {
+    content:"*";
+    color:red;
+    margin-left: 2px;
+}
+.form-control {
+    font-weight: 500;
+}
+.form-control::-webkit-input-placeholder { color: #bbbbbb; }  /* WebKit, Blink, Edge */
+.form-control:-moz-placeholder { color: #bbbbbb; }  /* Mozilla Firefox 4 to 18 */
+.form-control::-moz-placeholder { color: #bbbbbb; }  /* Mozilla Firefox 19+ */
+.form-control:-ms-input-placeholder { color: #bbbbbb; }  /* Internet Explorer 10-11 */
+.form-control::-ms-input-placeholder { color: #bbbbbb; }  /* Microsoft Edge */
+.instruction .card-text, .instruction .card-text ol li {
+    /*color: red !important;*/
+}
+.msg-block {
+    font-size: 12px;
+    color: #DC3545;
+}
+.has-success .msg-block {
+    font-size: 12px;
+    color: #28A745;
+}
+select.form-control {
+    padding: .264rem 1rem;
+}
+.registration .card-header { padding: 0px 0px;}
+.registration .nav-tabs .nav-item .nav-link {
+    font-weight: 500;
+}
+.registration .form-check-label {
+    padding-left: .25rem;
+}
+.alert ul {    
+    margin-bottom: 0px;
+    padding-left: 10px;
+}
+.alert ul li {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.registration .card-footer {
+    background: #fff;
+    border: 1px solid #E9ECEF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.last-save {
+    height: inherit;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+.registration hr {
+    margin-top: 0px !important;
+}
+.modal-footer {
+    border-top: none !important;
+}
+b, strong {
+    font-weight: 700;
+}
+.radio-group > .msg-block{
+    display: block;
+    font-size: 12px;
+    color: #DC3545;
+}
+.error-msg-block{
+    font-size: 12px;
+    color: #DC3545;
+    display: block;
+    margin-top: 4px;
+}
+.btn-upload, .btn-update {
+    margin-left: 10px;
+}
+.file-name {
+    display: inline-block;
+    min-width: 300px;
+    background-color: #E9ECEF;
+    padding: 7px 7px;
+}
+.bg-white.navbar .navbar-nav li.nav-item:hover {
+    background-color: #E9ECEF;
+    border-radius: 7px;
+}
+.acknowledgement .card-body p {
+    margin-bottom: 5px;
+}
+.instruction-content p, .instruction-content ul li,.instruction-content ol li {
+    font-size: 16px;
+}
+.instruction-content p {
+    margin-bottom: 10px;
+}
+.instruction-content ol li {
+    margin-bottom: 12px; 
+}
+.instruction-content ol li h5 {
+    margin-bottom: 0px;
+}
+.has-error .form-control {
+    border-color: #DC3545;;
+}
+span.info-link {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px
+}
+span.info-link:first-child,span.info-link:last-child {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.small-padding {
+    padding-top: 0.875rem;
+    padding-bottom: 0.875rem;
+}
+@media (max-width: 480px) {
+    .navbar-brand img {
+        width: 210px;
+        height: auto;
+    }
+}
+@media (max-width: 767px) {
+    .navbar .navbar-nav li.nav-item:hover {
+        background-color: transparent;
+    }
+}
+@media (min-width: 992px) {
+    .sticky-footer footer {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+    }
+    .sticky-footer .wrapper {
+        margin-bottom: 50px
+    }
+}
+.col-form-label.required:after {
+    content:"*";
+    color:red;
+}
+.border-errorClass {
+    border:  1px solid #DC3545; 
+}
+
+.preview h5 {
+    margin-bottom: 1.2rem;
+}
+.preview h4 {
+    font-weight: 400;
+    margin-bottom: 2rem;
+}
+.preview .col-form-label {
+    font-size: 15px !important;
+}
+@media print {
+    .print-hidden {
+        display: none;
+    }
+}
