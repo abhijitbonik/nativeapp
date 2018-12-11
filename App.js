@@ -25,14 +25,16 @@ import SignUpInstructions from './app/screens/SignUpInstructions';
 import Faq from './app/screens/Faq';
 import LoginForm from './app/forms/LoginForm';
 import IndexPage from './app/screens/IndexPage';
+import PostRegister from './app/screens/PostRegister';
 import LoggedInHome from './app/screens/LoggedInHome';
-import Form3 from './app/forms/Form3'
+import Form4 from './app/forms/Form4'
+import Form6 from './app/forms/Form6'
 
 
 
 const IndexStack = createMaterialTopTabNavigator({
   Index: {
-    screen: Form3,
+    screen: Form6,
     navigationOptions:{
       tabBarLabel: 'Home',
       tabBarIcon: ({tintColor}) =>(
@@ -83,6 +85,7 @@ const SignUpStack = createStackNavigator({
   SignUpInstructions: {screen: SignUpInstructions},
   SignUpForm: { screen: SignUpForm },
   ValidateOtp: { screen: ValidateOtp },
+  PostRegister: {screen: PostRegister},
 },
 {
   headerMode: 'none',

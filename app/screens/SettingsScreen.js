@@ -82,33 +82,3 @@ export default class SettingsScreen extends React.Component {
   }
 }
 
-// toggleLanguage() {
-//   if (currentLanguage == "en") {
-//     currentLanguage = "hin";
-//     (async () => {
-//       try {
-//         await AsyncStorage.setItem('@preferences:language', 'hin');
-//       } catch (error) {
-//         // Error saving data
-//       }
-//     })();
-//   } else if (currentLanguage == "hin") {
-//     currentLanguage = "en";
-//     (async () => {
-//       try {
-//         await AsyncStorage.setItem('@preferences:language', 'hin');
-//       } catch (error) {
-//         // Error saving data
-//       }
-//     })();
-//   } else {
-//     currentLanguage = "en";
-//     (async () => {
-//       try {
-//         await AsyncStorage.setItem('@preferences:language', 'en');
-//       } catch (error) {
-//         // Error saving data
-//       }
-//     })();
-//   }
-// }

@@ -32,8 +32,16 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d13c9509c2cfe2774681910d99993253/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ucrop_ic_done.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxxhdpi-v4/ucrop_ic_done.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ucrop_ic_done.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-hdpi-v4/ucrop_ic_done.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
@@ -116,8 +124,16 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/anim/abc_slide_out_bottom.xml"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ucrop_ic_cross.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxhdpi-v4/ucrop_ic_cross.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ucrop_ic_crop.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-ldpi-v4/ucrop_ic_crop.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -128,12 +144,20 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
-        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/anim/abc_fade_in.xml"
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/color_ucrop_scale_text_view_selector.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/color/ucrop_scale_text_view_selector.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ucrop_ic_crop.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxhdpi-v4/ucrop_ic_crop.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -146,6 +170,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ucrop_ic_next.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-ldpi-v4/ucrop_ic_next.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
@@ -252,6 +280,10 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ucrop_ic_reset.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-hdpi-v4/ucrop_ic_reset.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigationstack_dist_views_assets_backicon.png.flat",
         "source": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigationstack_dist_views_assets_backicon.png"
     },
@@ -276,16 +308,32 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/color/abc_hint_foreground_material_light.xml"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ucrop_ic_angle.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-hdpi-v4/ucrop_ic_angle.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_ucrop_activity_photobox.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/layout/ucrop_activity_photobox.xml"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ucrop_ic_scale.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxxhdpi-v4/ucrop_ic_scale.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d13c9509c2cfe2774681910d99993253/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_ucrop_vector_ic_crop.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable/ucrop_vector_ic_crop.xml"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
@@ -336,6 +384,10 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ucrop_ic_scale.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-mdpi-v4/ucrop_ic_scale.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
@@ -364,8 +416,16 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/color/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ucrop_ic_done.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xhdpi-v4/ucrop_ic_done.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_ucrop_shadow_upside.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable/ucrop_shadow_upside.xml"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeelements_src_rating_images_rocket.png.flat",
@@ -374,6 +434,14 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_ucrop_layout_rotate_wheel.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/layout/ucrop_layout_rotate_wheel.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_ucrop_fragment_photobox.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/layout/ucrop_fragment_photobox.xml"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -396,12 +464,20 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ucrop_ic_scale.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ucrop_ic_next.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xhdpi-v4/ucrop_ic_next.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
@@ -418,6 +494,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ucrop_ic_crop.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xhdpi-v4/ucrop_ic_crop.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -508,8 +588,16 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_ucrop_controls.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/layout/ucrop_controls.xml"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ucrop_ic_done.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-mdpi-v4/ucrop_ic_done.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -524,6 +612,10 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ucrop_ic_reset.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_track.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/color-v23/abc_tint_switch_track.xml"
     },
@@ -534,6 +626,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d13c9509c2cfe2774681910d99993253/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/anim_ucrop_loader_circle_path.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/anim/ucrop_loader_circle_path.xml"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_abc_tooltip.xml.flat",
@@ -550,6 +646,14 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ucrop_ic_reset.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-mdpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ucrop_ic_crop.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-mdpi-v4/ucrop_ic_crop.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -582,6 +686,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ucrop_ic_rotate.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xhdpi-v4/ucrop_ic_rotate.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -688,6 +796,10 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ucrop_ic_angle.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xhdpi-v4/ucrop_ic_angle.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
@@ -732,6 +844,10 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ucrop_ic_next.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxhdpi-v4/ucrop_ic_next.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable/abc_list_selector_holo_light.xml"
     },
@@ -750,6 +866,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d13c9509c2cfe2774681910d99993253/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/menu_ucrop_menu_activity.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/menu/ucrop_menu_activity.xml"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
@@ -808,6 +928,10 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ucrop_ic_angle.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxhdpi-v4/ucrop_ic_angle.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -818,6 +942,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_ab_back_material.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ucrop_ic_next.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-hdpi-v4/ucrop_ic_next.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -838,6 +966,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ucrop_ic_rotate.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -874,6 +1006,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_ucrop_vector_loader_animated.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable/ucrop_vector_loader_animated.xml"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
@@ -960,12 +1096,24 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/color/abc_tint_btn_checkable.xml"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ucrop_ic_next.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxxhdpi-v4/ucrop_ic_next.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeelements_src_rating_images_bell.png.flat",
         "source": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_src_rating_images_bell.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_ucrop_aspect_ratio.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/layout/ucrop_aspect_ratio.xml"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d13c9509c2cfe2774681910d99993253/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ucrop_ic_crop.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxxhdpi-v4/ucrop_ic_crop.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/raw_app_webview_instruction_instructions.html.flat",
@@ -976,16 +1124,20 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/066f4f4826556382c817e3ad3598098e/res/anim/catalyst_slide_up.xml"
     },
     {
-        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/color_abc_tint_switch_track.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/color/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ucrop_ic_crop.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-hdpi-v4/ucrop_ic_crop.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -1014,6 +1166,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d13c9509c2cfe2774681910d99993253/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ucrop_ic_angle.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-ldpi-v4/ucrop_ic_angle.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1046,6 +1202,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d13c9509c2cfe2774681910d99993253/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ucrop_ic_angle.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-mdpi-v4/ucrop_ic_angle.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -1084,6 +1244,10 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/layout/abc_select_dialog_material.xml"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/anim_ucrop_loader_circle_scale.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/layout/select_dialog_singlechoice_material.xml"
     },
@@ -1098,6 +1262,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ucrop_ic_rotate.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-hdpi-v4/ucrop_ic_rotate.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
@@ -1156,6 +1324,10 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ucrop_ic_scale.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-hdpi-v4/ucrop_ic_scale.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/066f4f4826556382c817e3ad3598098e/res/anim/catalyst_push_up_in.xml"
     },
@@ -1168,12 +1340,24 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ucrop_ic_reset.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxxhdpi-v4/ucrop_ic_reset.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ucrop_ic_cross.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xhdpi-v4/ucrop_ic_cross.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ucrop_ic_angle.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxxhdpi-v4/ucrop_ic_angle.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -1184,12 +1368,16 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ucrop_ic_rotate.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxxhdpi-v4/ucrop_ic_rotate.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
@@ -1300,12 +1488,12 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_out.xml.flat",
-        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/066f4f4826556382c817e3ad3598098e/res/anim/catalyst_fade_out.xml"
-    },
-    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_out.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/066f4f4826556382c817e3ad3598098e/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
@@ -1336,12 +1524,12 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
-        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
@@ -1350,6 +1538,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ucrop_ic_next.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-mdpi-v4/ucrop_ic_next.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1424,6 +1616,14 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ucrop_ic_done.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ucrop_ic_rotate.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxhdpi-v4/ucrop_ic_rotate.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -1444,6 +1644,10 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ucrop_ic_scale.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxhdpi-v4/ucrop_ic_scale.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/layout/abc_action_mode_bar.xml"
     },
@@ -1454,6 +1658,14 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_ucrop_view.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/layout/ucrop_view.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ucrop_ic_scale.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xhdpi-v4/ucrop_ic_scale.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -1478,6 +1690,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d13c9509c2cfe2774681910d99993253/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_ucrop_vector_loader.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable/ucrop_vector_loader.xml"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
@@ -1516,8 +1732,16 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ucrop_ic_cross.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-mdpi-v4/ucrop_ic_cross.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d13c9509c2cfe2774681910d99993253/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ucrop_ic_reset.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xhdpi-v4/ucrop_ic_reset.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
@@ -1544,12 +1768,20 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_ucrop_ic_cross.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ucrop_ic_rotate.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-mdpi-v4/ucrop_ic_rotate.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -1582,6 +1814,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ucrop_ic_reset.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxhdpi-v4/ucrop_ic_reset.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -1624,8 +1860,24 @@
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ucrop_ic_cross.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxxhdpi-v4/ucrop_ic_cross.png"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/layout_ucrop_layout_scale_wheel.xml.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/layout/ucrop_layout_scale_wheel.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ucrop_ic_cross.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-hdpi-v4/ucrop_ic_cross.png"
+    },
+    {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/xml_provider_paths.xml.flat",
+        "source": "/home/admin/Desktop/android/gitlab/kvs_app/node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -1634,6 +1886,10 @@
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
         "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d6937798d0dd10606d9ae1bdc9c448ed/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ucrop_ic_done.png.flat",
+        "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/drawable-xxhdpi-v4/ucrop_ic_done.png"
     },
     {
         "merged": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",

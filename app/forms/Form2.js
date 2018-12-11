@@ -82,10 +82,6 @@ export default class Form2 extends React.Component {
     };
   }
 
-  _signup = (values) => {
-    // code to send fetch request to server and store access token
-    this.props.navigation.navigate('LoggedInHome');
-  }
 
   _toggleLang = () => {
     //this.state.currLang = AsyncStorage.getItem('lang');
@@ -189,7 +185,9 @@ export default class Form2 extends React.Component {
           //alignItems: 'center',
           justifyContent: 'center',
           backgroundColor: '#fff',
-          height: '99%',}}>
+          height: '100%',
+          paddingHorizontal:4,
+          }}>
         <ScrollView>
         <View>
                         <Formik
@@ -696,12 +694,6 @@ export default class Form2 extends React.Component {
                               <TouchableOpacity style={formStyles.button} onPress={handleSubmit} >
                                 <Text style={formStyles.buttonText}>Save Application</Text>
                               </TouchableOpacity>
-                              <Text>Mother's</Text>
-                              <Text>{this.state.mother_country}</Text>
-                              <Text>{this.state.mother_state}</Text>
-                              <Text>Father's</Text>
-                              <Text>{this.state.father_country}</Text>
-                              <Text>{this.state.father_state}</Text>
                               </View>
                             </React.Fragment>
                           )}

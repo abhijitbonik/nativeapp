@@ -77,14 +77,17 @@ export default class SignUpInstructions extends React.Component {
             //uncheckedIcon='circle-o'
            >
           </CheckBox>
-          <TouchableOpacity style={{
-            width: 300,
-            backgroundColor: '#ff7043',
-            borderRadius: 15,
-            paddingVertical: 12,
-            marginBottom: 10,
-            alignItems: 'center',
-          }} onPress={() => this.props.navigation.navigate('SignUpForm')} >
+          <TouchableOpacity 
+            style={{
+              width: 300,
+              backgroundColor: '#ff7043',
+              borderRadius: 15,
+              paddingVertical: 12,
+              marginBottom: 10,
+              alignItems: 'center',
+            }}
+            disabled={this.state.isAccepted=='yes'?false:true} 
+            onPress={() => this.props.navigation.navigate('SignUpForm')} >
             <Text style={formStyles.buttonText}>{I18n.t('proceed')}</Text>
           </TouchableOpacity>
         </View>
@@ -94,10 +97,3 @@ export default class SignUpInstructions extends React.Component {
     );
   }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    width: '50%',
-    alignSelf: 'center',
-  }
-})

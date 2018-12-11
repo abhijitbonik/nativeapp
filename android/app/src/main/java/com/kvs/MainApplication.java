@@ -3,6 +3,10 @@ package com.kvs;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.reactnativedocumentpicker.ReactNativeDocumentPicker;
+import com.rnfs.RNFSPackage;
+import com.RNFetchBlob.RNFetchBlobPackage;
+import com.reactnative.ivpusic.imagepicker.PickerPackage;
 import com.psykar.cookiemanager.CookieManagerPackage;
 import com.oblador.vectoricons.VectorIconsPackage;
 import com.facebook.react.ReactNativeHost;
@@ -25,6 +29,10 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
+            new ReactNativeDocumentPicker(),
+            new RNFSPackage(),
+            new RNFetchBlobPackage(),
+            new PickerPackage(),
             new CookieManagerPackage(),
             new VectorIconsPackage()
       );

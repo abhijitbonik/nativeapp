@@ -183,6 +183,17 @@ export default {
 		transfer_order_number_label:'Transfer Order No',
 		delete_label:'Delete',
 
-	}
+	},
+
+	form4:{
+		instr1:'Only .pdf and .jpg files are allowed. Photo of the child should be an image file(.jpg).',
+		instr2:'Maximum size of the file should be 256 KB.',
+		instr3:'All documents marked with * are mandatory.',
+		birthdate_label:'Proof of Date of Birth of the child',
+		photo_label:'Passport size photo of the child',
+		document_instr:'Following Documents are required to be presented to the school at the time of admission',
+		document1_label:'Self Declaration in case of Single Girl Child',
+		document2_label:'',
+	},
 
 };

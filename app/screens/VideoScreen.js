@@ -49,22 +49,3 @@ export default class VideoScreen  extends React.Component {
   }
 }
 
-
-const styles = StyleSheet.create({
-  navBar: {
-    height: 55,
-    backgroundColor: 'white',
-    elevation: 3,
-    paddingHorizontal: 15,
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between'
-  },
-  backgroundVideo: {
-    position: 'absolute',
-    top: 0,
-    left: 0,
-    bottom: 0,
-    right: 0,
-  },
-})

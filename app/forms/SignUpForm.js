@@ -36,11 +36,15 @@ var ph_props = [
   {label: 'नहीं / No', value: 'false' }
 ];
 
+
+
 export default class SignUpForm extends React.Component {
 
-  componentDidMount = () => {
-    AsyncStorage.getItem('lang').then((value) => { this.setState({ 'currLang': 'hin' })} );
-    AsyncStorage.getItem('cookies').then((value) => { this.setState({ 'cookies': value })} );
+  componentDidMount = async () => {
+    await AsyncStorage.setItem('canResend','true')  
+    await AsyncStorage.getItem('lang').then((value) => { this.setState({ 'currLang': 'hin' })} );
+    await AsyncStorage.getItem('cookies').then((value) => { this.setState({ 'cookies': value })} );
+    console.log("componentdidmount this ", this)
     /*
     CookieManager.get('http://10.129.155.117:8084/kvs-portal/register.html')
       .then((res) => {
@@ -71,7 +75,24 @@ export default class SignUpForm extends React.Component {
     };
   }
 
-   _signup = (values) => {
+  validateResponse = async (myJson) =>{
+    console.log("validateResponse myJson" , myJson)
+      if(myJson.result=='success' && myJson.statusCode=='200') {
+        await AsyncStorage.setItem('encrypted_login_code', myJson.data.lc)
+        await AsyncStorage.setItem('encrypted_mobile_number', myJson.data.mn)
+        await AsyncStorage.setItem('mobile_number', this.state.mobile_number)
+        this.props.navigation.navigate('ValidateOtp');
+        
+      }
+      else {
+        alert("Something went wrong, Please try again.")
+        this.props.navigation.navigate('SignUpForm');
+      }
+
+  }
+
+   _signup = async (values) => {
+    await this.setState({"mobile_number":values.mobile_number})
     var base_url='http://10.129.155.117:8084/kvs-portal/'
     var url=base_url+"api/v1/register.html?applicationForm.firstName="+values.first_name
               +"&applicationForm.middleName="+values.middle_name
@@ -92,31 +113,33 @@ export default class SignUpForm extends React.Component {
       // path=/kvs-portal/; domain=10.129.155.117; HttpOnly; Expires=Tue, 19 Jan 2038 03:14:07 GMT;'
       };
 
-    fetch(url,{
+    await fetch(url,{
       method:'POST',
       body:null,
       headers:headers,
       credentials:'include',
     })
-        .then(function(response) {
-          console.log(response)
-          return response.json();
-        })
-        .then(function(myJson) {
-          alert(JSON.stringify(myJson));
-          console.log('Registration Response =>', myJson, myJson.statusCode)
-          if(myJson.result=='success' && myJson.statusCode=='200'){
-            //this.props.navigation.navigate('ValidateOtp');
-            //alert('result- '+myJson.result+' statusCode- '+myJson.statusCode)
-          }
-          else{
-            alert('set error codes here')
-          }
-        });
-
-    // alert(JSON.stringify(response.json());
-
-    // this.props.navigation.navigate('ValidateOtp');
+    .then(function(response) {
+      console.log(response)
+      return response.json();
+    })
+    .then((myJson) =>{
+      this.validateResponse(myJson)
+    })
+    .catch((err) =>{
+      console.log("Error: ",err)
+    })
+    
+  //   {
+  //     //   if(myJson.result=='success' && myJson.statusCode=='200') {
+  //     //     this.props.navigation.navigate('ValidateOtp');
+  //     //   }
+  //     // else {
+  //     //   alert("Something went wrong, Please try again.")
+  //     //   this.props.navigation.navigate('SignUpForm');
+  //     // }
+  //     console.log("myjson ",myJson)
+  // }
   }
 
   _toggleLang = () => {

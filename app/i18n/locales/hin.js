@@ -180,7 +180,18 @@ export default {
 		office_distance_label:'दो कार्यालयों के बीच दूरी (किमी)',
 		transfer_order_number_label:'स्थानांतरण आदेश संख्या',
 		delete_label:'हटाएं',
-	}
+	},
+
+	form4:{
+		instr1:'केवल .pdf और .jpg फाइल ही मान्य हैं। बच्चे की फोटो .jpg फाइल ही होनी चाहिए। ',
+		instr2:'फ़ाइल की अधिकतम साइज़ 256 KB होनी चाहिए।',
+		instr3:'* चिन्हित सभी दस्तावेज अनिवार्य हैं। ',
+		birthdate_label:'बच्चे की जन्म तिथि का प्रमाण',
+		photo_label:'बच्चे का पासपोर्ट साइज फोटो',
+		document_instr:'{Hindi} Following Documents are required to be presented to the school at the time of admission',
+		document1_label:'{Hindi} Self Declaration in case of Single Girl Child',
+		document2_label:'',
+	},
 
 
 };

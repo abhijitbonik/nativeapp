@@ -4,6 +4,23 @@
             "outputFile": "/home/admin/Desktop/android/gitlab/kvs_app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
+                    "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/2dfb69b47fad45d8f86b0388d376dec7/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,132,186,240,287",
+                        "endColumns": "76,53,53,46,116",
+                        "endOffsets": "127,181,235,282,399"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1912,1989,2043,2097,2144",
+                        "endColumns": "76,53,53,46,116",
+                        "endOffsets": "1984,2038,2092,2139,2256"
+                    }
+                },
+                {
                     "source": "/home/admin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d13c9509c2cfe2774681910d99993253/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "2",

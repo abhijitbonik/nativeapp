@@ -34,10 +34,11 @@ import Captcha from '../components/Captcha'
 
 export default class LoginForm extends React.Component {
 
-  componentDidMount = () => {
-    AsyncStorage.getItem('lang').then((value) => { this.setState({ 'currLang': 'hin' })} )
-    AsyncStorage.getItem('login_code').then((value) => { this.setState({ 'login_code': value })} )
-    AsyncStorage.getItem('password').then((value) => { this.setState({ 'password': value })} )
+  componentDidMount = async () => {
+    await AsyncStorage.getItem('cookies').then((value) => { this.setState({ 'cookies': value })} );
+    await AsyncStorage.getItem('lang').then((value) => { this.setState({ 'currLang': 'hin' })} )
+    await AsyncStorage.getItem('login_code').then((value) => { this.setState({ 'login_code': value })} )
+    await AsyncStorage.getItem('password').then((value) => { this.setState({ 'password': value })} )
   }
 
 
@@ -49,40 +50,48 @@ export default class LoginForm extends React.Component {
       password: '',
       captcha: '',
       currLang: '',
+      cookies:'',
     };
   }
 
 
-  _login = () => {
-    // code to send fetch request to server and store access token
-    AsyncStorage.setItem('token', 'demoToken');
-    this.props.navigation.navigate('LoggedInHome');
-    //alert('values.password')
+  _login = async (values) => {
+    var base_url='http://10.129.155.117:8084/kvs-portal/'
+    var url=base_url+"api/v1/login.html?loginCode="+values.login_code
+              +"&password="+values.password
+              +"&captchaText="+values.captcha
+    headers = {
+      'Accept': 'application/json',
+      // 'Accept-Encoding': 'gzip',
+      'Cookie': 'JSESSION='+this.state.cookies
+      // path=/kvs-portal/; domain=10.129.155.117; HttpOnly; Expires=Tue, 19 Jan 2038 03:14:07 GMT;'
+      };
+
+    await fetch(url,{
+      method:'POST',
+      body:null,
+      headers:headers,
+      credentials:'include',
+    })
+    .then(function(response) {
+      console.log(response)
+      return response.json();
+    })
+    .then((myJson) =>{
+      this.validateResponse(myJson)
+    })
+    .catch((err) =>{
+      console.log("Error: ",err)
+    })
+    //this.props.navigation.navigate('LoggedInHome');
   }
 
   _reset = () => {
     this.props.navigation.navigate('ResetPassword')
   }
 
-  _saveValues = (values) => {
-    AsyncStorage.setItem('login_code', values.login_code)
-    AsyncStorage.setItem('password', values.password)
-    this.setState({ 'login_code': values.registration_id })
-    this.setState({ 'password': values.password })
-  }
-
-
   _handleSubmit = (values) => {
-    /*
-    // add onPress={handleSubmit} in login button
-    this._saveValues(values)
-    //this._login(values);
-    //alert(JSON.stringify(values.email))
-    this._login()
-    */
-    this._saveValues(values);
-    // code to send fetch request to server and store access token
-    this._login();
+    this._login(values);
   }
 
   _toggleLang = () => {
@@ -99,6 +108,20 @@ export default class LoginForm extends React.Component {
     }).then(setLocale(this.state.currLang))
   }
 
+  validateResponse = async (myJson) =>{
+    console.log("validateResponse myJson" , myJson)
+      if(myJson.result=='success' && myJson.statusCode=='200') {
+        await AsyncStorage.setItem('encrypted_login_code', myJson.data)
+        this.props.navigation.navigate('LoggedInHome');
+        
+      }
+      else {
+        alert("Something went wrong, Please try again. Error is ", myJson.result)
+        this.props.navigation.navigate('LoginForm');
+      }
+
+  }
+
   render() {
     return (
       <View>
@@ -106,19 +129,25 @@ export default class LoginForm extends React.Component {
       <DismissKeyBoard>
       <View style={{
         alignItems: 'center',
-        justifyContent: 'center',
+        //justifyContent: 'center',
         backgroundColor: '#fff',
         height: '100%',}}>
       <Formik
         enableReinitialize
-        initialValues={{login_code: this.state.login_code, password: this.state.password, captcha: this.state.captcha}}
+        initialValues={{
+          // login_code: this.state.login_code, 
+          // password: this.state.password, 
+          // captcha: this.state.captcha
+          login_code:'',
+          password:'',
+          captcha:'',
+        }}
         onSubmit={this._handleSubmit}
         validationSchema={Yup.object().shape({
           login_code: Yup.string()
             .required('Please enter login code')
-            .min(10, 'Minimum 10 characters is required')
-            .max(10, 'Maximum 10 characters are allowed'),
-            //.matches(/^[A-Za-z \.]+$/, 'Must be alphabets'),
+            .min(12, 'Minimum 10 characters is required')
+            .max(12, 'Maximum 10 characters are allowed'),
           password: Yup.string()
             .min(6, 'Minimum 6 characters is required')
             .max(15, 'Maximum 15 characters are allowed')

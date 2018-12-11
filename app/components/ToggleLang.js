@@ -5,7 +5,7 @@ import {
 import {setLocale} from '../i18n/i18n';
 
 var currLang;
-export const ToggleLang = () => {
+const ToggleLang = () => {
   //this.state.currLang = AsyncStorage.getItem('lang');
   // AsyncStorage.getItem('lang').then((value) => {
   //   if(value == 'en') {
@@ -27,4 +27,4 @@ export const ToggleLang = () => {
   })
 }
 
-// export const ToggleLang
+export default ToggleLang

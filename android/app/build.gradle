@@ -99,6 +99,7 @@ android {
 
     defaultConfig {
         applicationId "com.kvs"
+        vectorDrawables.useSupportLibrary = true
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
@@ -137,7 +138,11 @@ android {
 }
 
 dependencies {
-    compile project(':react-native-cookies')
+    implementation project(':react-native-document-picker')
+    implementation project(':react-native-fs')
+    implementation project(':rn-fetch-blob')
+    implementation project(':react-native-image-crop-picker')
+    implementation project(':react-native-cookies')
     implementation project(':react-native-vector-icons')
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation "com.android.support:appcompat-v7:${rootProject.ext.supportLibVersion}"

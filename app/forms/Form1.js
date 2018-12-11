@@ -32,13 +32,11 @@ import RadioForm, {RadioButton, RadioButtonInput, RadioButtonLabel} from 'react-
 import { KeyboardAwareView } from 'react-native-keyboard-aware-view'
 
 
-
-
 export default class Form1 extends React.Component {
 
   componentDidMount = () => {
     AsyncStorage.setItem('isPH', 'no');
-      AsyncStorage.setItem('kvs_ward', 'notapplicable');
+    AsyncStorage.setItem('kvs_ward', 'notapplicable');
     AsyncStorage.getItem('lang').then((value) => { this.setState({ 'currLang': 'hin' })} );
     AsyncStorage.getItem('c_fname').then((value) => { this.setState({ 'first_name': value })} );
     AsyncStorage.getItem('c_mname').then((value) => { this.setState({ 'middle_name': value })} );
@@ -78,10 +76,6 @@ export default class Form1 extends React.Component {
     };
   }
 
-  _signup = (values) => {
-    // code to send fetch request to server and store access token
-    this.props.navigation.navigate('LoggedInHome');
-  }
 
   _toggleLang = () => {
     //this.state.currLang = AsyncStorage.getItem('lang');
